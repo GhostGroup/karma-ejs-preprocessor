@@ -21,5 +21,7 @@
         "email": "sebastian.zaha@gmail.com"
     },
     "licenses": "MIT",
-    "dependencies": "ejs"
+    "dependencies": {
+      "ejs": "2.3.1"
+    }
 }
