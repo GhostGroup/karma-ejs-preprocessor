@@ -1,5 +1,5 @@
 {
-    "name": "karma-ejs-preprocessor",
+    "name": "@ghostgroup/karma-ejs-preprocessor",
     "version": "0.2.0",
     "description": "A Karma plugin. Compiles underscore embedded js templates.",
     "main": "index.js",
